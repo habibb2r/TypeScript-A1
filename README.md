@@ -1,10 +1,7 @@
-# batch4-assignment-1
-
-## Assignment: Basic Problem Solving with TypeScript
+## Basic Problem Solving with TypeScript
 
 This assignment comprises various problems that demonstrate fundamental TypeScript concepts, including data typing, interfaces for objects, class usage with inheritance, type checking, and manipulation of data structures. The solutions aim to showcase efficient and clear problem-solving techniques using TypeScript, adhering to best coding practices.
 
-Each problem is accompanied by sample input and output, showcasing how TypeScript can be used to solve practical programming challenges effectively.If you have any questions or need further clarification on any problem, please let us know in our facebook group.
 
 ## Problem 1:
 
